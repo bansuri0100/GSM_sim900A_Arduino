@@ -21,4 +21,6 @@ In the channel, we can see the graph plotted for values of humidity percentage v
 
 AT Commands
 ![alt tag](https://github.com/bansuri0100/GSM_sim900A_Arduino/blob/master/sketch_apr20a/screenshots/AT.PNG)
+Hardware 
+![alt tag](https://github.com/bansuri0100/GSM_sim900A_Arduino/blob/master/sketch_apr20a/screenshots/hardware.PNG)
 
