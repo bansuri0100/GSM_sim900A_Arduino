@@ -28,6 +28,6 @@ Website Screenshots
 ![alt tag](https://github.com/bansuri0100/GSM_sim900A_Arduino/blob/master/sketch_apr20a/screenshots/ss2.PNG)
 
 Working DEMO
-![alt tag](https://github.com/bansuri0100/GSM_sim900A_Arduino/blob/master/sketch_apr20a/screenshots/CAPTURE.PNG)
+![alt tag](https://github.com/bansuri0100/GSM_sim900A_Arduino/blob/master/sketch_apr20a/screenshots/Capture.PNG)
 
 
