@@ -17,7 +17,8 @@ After it is sent, the AT commands start and the GSM module responds to the comma
 After the data is sent successfully the ThingSpeak server, we can visit the channel through the following URL : https://thingspeak.com/channels/761938 
 
 In the channel, we can see the graph plotted for values of humidity percentage vs time with a line graph. We can also see the gauge widget which shows the present humidity percentage . This pictorial representation makes it user-friendly for the user.
-IMAGES 
-AT Commands
-![alt tag](https://github.com/bansuri0100/GSM_sim900A_Arduino/blob/master/sketch_apr20a/screenshots/AT.PNG)
+
+
+
+AT Commands![alt tag](https://github.com/bansuri0100/GSM_sim900A_Arduino/blob/master/sketch_apr20a/screenshots/AT.PNG)
 
